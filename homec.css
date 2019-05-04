@@ -1,0 +1,105 @@
+nav {
+	display: flex;
+	justify-content: space-around;
+	align-content: center;
+	min-height: 8vh;
+	font-family: 'Poppins', sans-serif;
+	background: linear-gradient(45deg, #ff3333, #ff9800);
+
+}
+
+
+
+p {
+	font-size: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-decoration-color: #10100a;
+	margin-left: auto;
+	margin-right: auto;
+	width: 18em;
+	font-weight: lighter;
+}
+
+h1 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 11em;
+	font-size: 50px;
+	font-family: ltc-bodoni-175;
+	font-weight: 400;
+
+}
+
+h3 {
+	margin-left: auto;
+	margin-right: auto;
+	width=11em;
+	font size: 18em;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+}
+
+#particles-js
+{
+	height: 100%;
+	background: #000;
+	background: linear-gradient(45deg, #e91e63, #ff9800);
+}
+
+.logo {
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: white;
+}
+
+.nav-links{
+	display: flex;
+	justify-content: space-around;
+	width: 50%;
+}
+
+.nav-links a {
+	text-decoration: none;
+	letter-spacing: 3px;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.nav-links li {
+	list-style: none;
+}
+.welcome {
+	position: absolute;
+	font-family: sans-serif;
+	color: #f0f0f0;
+}
+
+.one {
+	width: 1800px;
+	height: 50px;
+	letter-spacing: 90px;
+	font-size: 30px;
+	position: center;
+	font-family: "Poppins";
+	position: absolute;
+	margin-top: 200px;
+	color: white;
+	
+}
+.two {
+	width: 1200px;
+	height: 50px;
+	letter-spacing: 5px;
+	font-size: 30px;
+	position: center;
+	font-family: "Poppins";
+	position: absolute;
+	margin-top: 500px;
+	color: white;
+
+}
